@@ -1,0 +1,7 @@
+# mac
+.DS_Store
+# ignore vim swp
+*.swp
+# ignore ide files (debug config etc...)
+/.vscode
+/.idea
